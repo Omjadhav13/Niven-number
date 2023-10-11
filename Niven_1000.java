@@ -1,3 +1,5 @@
+// This code find the niven numbers present inside a range eg.1-1000
+
 package spiders;
 
 public class Niven_1000 {
@@ -19,7 +21,5 @@ public class Niven_1000 {
 			}
 		}
 		System.out.println(count);
-
 	}
-
 }
